@@ -1,2 +1,3 @@
-# Homewrok3
+# Homework3
+
 ödev 3
